@@ -9,7 +9,7 @@ A Flutter LLM Chat Client
   </a>
 
 
-English | [简体中文](README_ZH_CN.md)
+English 
 </div>
 
 <div align="center">
@@ -62,26 +62,4 @@ Pull Requests and Issues are welcome!
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 💖 Acknowledgements
 
-Special thanks to the [RikkaHub](https://github.com/re-ovo/rikkahub) project for the UI design inspiration. Kelivo's interface design is heavily inspired by RikkaHub's beautiful and practical design.
-
-## ⭐ Star History
-
-If you like this project, please give it a star ⭐
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Chevey339/kelivo&type=Date)](https://star-history.com/#Chevey339/kelivo&Date)
-
-## 📄 License
-
-This project is licensed under the AGPL-3.0 License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact Us
-
-- Issue: [GitHub Issues](https://github.com/Chevey339/kelivo/issues)
-
----
-
-<div align="center">
-Made with ❤️ using Flutter
-</div>
