@@ -1,6 +1,6 @@
 <div align="center">
   <img src="assets/app_icon.png" alt="Kelivo Icon" width="100" />
-  <h1>Kelivo</h1>
+  <h1>FlutterGrain</h1>
 
 A Flutter LLM Chat Client
 
