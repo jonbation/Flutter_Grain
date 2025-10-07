@@ -19,14 +19,6 @@ English
   <img src="docx/screenshot_4.png" alt="Web Search" width="150" />
 </div>
 
-## 🚀 Download
-
-[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/kelivo/id6752122930)
-
-🔗 [Download the latest version](https://github.com/Chevey339/kelivo/releases/latest)
-
-🔗 [TestFlight](https://testflight.apple.com/join/PZZyRMyY) for beta testing.
-
 ## ✨ Features
 
 - 🎨 **Modern Design** - Material You design language with dynamic color theming support (Android 12+).
@@ -48,7 +40,6 @@ English
 
 - ✅ Android
 - ✅ iOS
-- ✅ Harmony ([kelivo-ohos](https://github.com/Chevey339/kelivo-ohos))
 - 🚧 Windows (Planned)
 - 🚧 macOS (Planned)
 
