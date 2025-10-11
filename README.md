@@ -28,8 +28,6 @@ A Flutter LLM Chat Client
 - 🚧 Windows (Planned)
 - 🚧 macOS (Planned)
 
-## 🤝 Contribution Guide
-
 Pull Requests and Issues are welcome!
 
 1. Fork the repository
