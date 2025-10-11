@@ -4,21 +4,6 @@
 
 A Flutter LLM Chat Client
 
-  <a href="https://discord.gg/Tb8DyvvV5T" target="_blank">
-    <img src="https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord"/>
-  </a>
-
-
-English 
-</div>
-
-<div align="center">
-  <img src="docx/screenshot_1.png" alt="Chat Screen" width="150" />
-  <img src="docx/screenshot_2.png" alt="Model Selection" width="150" />
-  <img src="docx/screenshot_3.png" alt="Tool Calling" width="150" />
-  <img src="docx/screenshot_4.png" alt="Web Search" width="150" />
-</div>
-
 ## ✨ Features
 
 - 🎨 **Modern Design** - Material You design language with dynamic color theming support (Android 12+).
